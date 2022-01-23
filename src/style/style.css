@@ -1,0 +1,48 @@
+*{
+    color: black;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #EAE2C5;
+  padding:0px;  
+  padding-top:10px;  
+}
+h1{
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    color: #406B59;
+}
+#insertReactHere{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ padding-bottom: 15%;
+}
+ 
+#lille{
+   float: right;
+   position:absolute; 
+   bottom:0;
+    right:0;
+    margin-right:5px;  
+}
+label{
+    color: white;
+}
+.app {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     border-radius: 25px;
+}
+.currency{
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+     border-radius: 25px;
+}
+input{
+     border-radius: 10px;
+}
+
